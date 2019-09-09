@@ -126,7 +126,7 @@
                                 <li>Son/Daughter</li>
                                 <li>Grandchild</li>
                                 <li>Brother/Sister</li>
-                                <li>Nephew/Neice</li>
+                                <li>Nephew/Niece</li>
                                 <li>Grandparent</li>
                                 <li>Other</li>
                             </ul>

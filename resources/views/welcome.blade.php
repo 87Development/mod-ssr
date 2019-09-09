@@ -7,8 +7,6 @@
     <p class="govuk-body-l">Use this service to obtain information relating to a servicemen/servicewoman who has served
     in the Royal Navy, Royal Marines, Army, Royal Air Force or Home Guard.</p>
 
-    <p class="govuk-body"> It contains all you need to prototype anything from simple static pages to complex, data-driven transactions.</p>
-
     <h2 class="govuk-heading-m">Before you start</h2>
 
     <ul class="govuk-list govuk-list--bullet">
